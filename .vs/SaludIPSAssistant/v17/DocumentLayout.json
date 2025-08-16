@@ -1,7 +1,112 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\SDotNetApps\\SaludIPSAssistant\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA91409-9BD5-48A7-AA2E-14F5C3DC1FF6}|src\\SaludIPSAssistant.WebApi\\SaludIPSAssistant.WebApi.csproj|d:\\sdotnetapps\\saludipsassistant\\src\\saludipsassistant.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EEA91409-9BD5-48A7-AA2E-14F5C3DC1FF6}|src\\SaludIPSAssistant.WebApi\\SaludIPSAssistant.WebApi.csproj|solutionrelative:src\\saludipsassistant.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA91409-9BD5-48A7-AA2E-14F5C3DC1FF6}|src\\SaludIPSAssistant.WebApi\\SaludIPSAssistant.WebApi.csproj|d:\\sdotnetapps\\saludipsassistant\\src\\saludipsassistant.webapi\\controllers\\webhookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA91409-9BD5-48A7-AA2E-14F5C3DC1FF6}|src\\SaludIPSAssistant.WebApi\\SaludIPSAssistant.WebApi.csproj|solutionrelative:src\\saludipsassistant.webapi\\controllers\\webhookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD0F7BD-1384-418C-85BB-242AB2EB7FA2}|src\\SaludIPSAssistant.Infrastructure\\SaludIPSAssistant.Infrastructure.csproj|d:\\sdotnetapps\\saludipsassistant\\src\\saludipsassistant.infrastructure\\services\\whatsappnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AD0F7BD-1384-418C-85BB-242AB2EB7FA2}|src\\SaludIPSAssistant.Infrastructure\\SaludIPSAssistant.Infrastructure.csproj|solutionrelative:src\\saludipsassistant.infrastructure\\services\\whatsappnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B101650B-BDCA-4535-93D1-8F8E79EF4C8E}|src\\SaludIPSAssistant.Application\\SaludIPSAssistant.Application.csproj|d:\\sdotnetapps\\saludipsassistant\\src\\saludipsassistant.application\\usecases\\conversations\\processincomingmessagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B101650B-BDCA-4535-93D1-8F8E79EF4C8E}|src\\SaludIPSAssistant.Application\\SaludIPSAssistant.Application.csproj|solutionrelative:src\\saludipsassistant.application\\usecases\\conversations\\processincomingmessagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B101650B-BDCA-4535-93D1-8F8E79EF4C8E}|src\\SaludIPSAssistant.Application\\SaludIPSAssistant.Application.csproj|d:\\sdotnetapps\\saludipsassistant\\src\\saludipsassistant.application\\queries\\appointmentqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B101650B-BDCA-4535-93D1-8F8E79EF4C8E}|src\\SaludIPSAssistant.Application\\SaludIPSAssistant.Application.csproj|solutionrelative:src\\saludipsassistant.application\\queries\\appointmentqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B101650B-BDCA-4535-93D1-8F8E79EF4C8E}|src\\SaludIPSAssistant.Application\\SaludIPSAssistant.Application.csproj|d:\\sdotnetapps\\saludipsassistant\\src\\saludipsassistant.application\\interfaces\\repositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B101650B-BDCA-4535-93D1-8F8E79EF4C8E}|src\\SaludIPSAssistant.Application\\SaludIPSAssistant.Application.csproj|solutionrelative:src\\saludipsassistant.application\\interfaces\\repositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B101650B-BDCA-4535-93D1-8F8E79EF4C8E}|src\\SaludIPSAssistant.Application\\SaludIPSAssistant.Application.csproj|d:\\sdotnetapps\\saludipsassistant\\src\\saludipsassistant.application\\interfaces\\externalservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B101650B-BDCA-4535-93D1-8F8E79EF4C8E}|src\\SaludIPSAssistant.Application\\SaludIPSAssistant.Application.csproj|solutionrelative:src\\saludipsassistant.application\\interfaces\\externalservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B101650B-BDCA-4535-93D1-8F8E79EF4C8E}|src\\SaludIPSAssistant.Application\\SaludIPSAssistant.Application.csproj|d:\\sdotnetapps\\saludipsassistant\\src\\saludipsassistant.application\\dtos\\whatsappdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B101650B-BDCA-4535-93D1-8F8E79EF4C8E}|src\\SaludIPSAssistant.Application\\SaludIPSAssistant.Application.csproj|solutionrelative:src\\saludipsassistant.application\\dtos\\whatsappdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B101650B-BDCA-4535-93D1-8F8E79EF4C8E}|src\\SaludIPSAssistant.Application\\SaludIPSAssistant.Application.csproj|d:\\sdotnetapps\\saludipsassistant\\src\\saludipsassistant.application\\commands\\appointmentcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B101650B-BDCA-4535-93D1-8F8E79EF4C8E}|src\\SaludIPSAssistant.Application\\SaludIPSAssistant.Application.csproj|solutionrelative:src\\saludipsassistant.application\\commands\\appointmentcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA91409-9BD5-48A7-AA2E-14F5C3DC1FF6}|src\\SaludIPSAssistant.WebApi\\SaludIPSAssistant.WebApi.csproj|d:\\sdotnetapps\\saludipsassistant\\src\\saludipsassistant.webapi\\saludipsassistant.webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{EEA91409-9BD5-48A7-AA2E-14F5C3DC1FF6}|src\\SaludIPSAssistant.WebApi\\SaludIPSAssistant.WebApi.csproj|solutionrelative:src\\saludipsassistant.webapi\\saludipsassistant.webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA91409-9BD5-48A7-AA2E-14F5C3DC1FF6}|src\\SaludIPSAssistant.WebApi\\SaludIPSAssistant.WebApi.csproj|d:\\sdotnetapps\\saludipsassistant\\src\\saludipsassistant.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA91409-9BD5-48A7-AA2E-14F5C3DC1FF6}|src\\SaludIPSAssistant.WebApi\\SaludIPSAssistant.WebApi.csproj|solutionrelative:src\\saludipsassistant.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA91409-9BD5-48A7-AA2E-14F5C3DC1FF6}|src\\SaludIPSAssistant.WebApi\\SaludIPSAssistant.WebApi.csproj|d:\\sdotnetapps\\saludipsassistant\\src\\saludipsassistant.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EEA91409-9BD5-48A7-AA2E-14F5C3DC1FF6}|src\\SaludIPSAssistant.WebApi\\SaludIPSAssistant.WebApi.csproj|solutionrelative:src\\saludipsassistant.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD0F7BD-1384-418C-85BB-242AB2EB7FA2}|src\\SaludIPSAssistant.Infrastructure\\SaludIPSAssistant.Infrastructure.csproj|d:\\sdotnetapps\\saludipsassistant\\src\\saludipsassistant.infrastructure\\services\\simplenlpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AD0F7BD-1384-418C-85BB-242AB2EB7FA2}|src\\SaludIPSAssistant.Infrastructure\\SaludIPSAssistant.Infrastructure.csproj|solutionrelative:src\\saludipsassistant.infrastructure\\services\\simplenlpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD0F7BD-1384-418C-85BB-242AB2EB7FA2}|src\\SaludIPSAssistant.Infrastructure\\SaludIPSAssistant.Infrastructure.csproj|d:\\sdotnetapps\\saludipsassistant\\src\\saludipsassistant.infrastructure\\services\\mockagendaprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AD0F7BD-1384-418C-85BB-242AB2EB7FA2}|src\\SaludIPSAssistant.Infrastructure\\SaludIPSAssistant.Infrastructure.csproj|solutionrelative:src\\saludipsassistant.infrastructure\\services\\mockagendaprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD0F7BD-1384-418C-85BB-242AB2EB7FA2}|src\\SaludIPSAssistant.Infrastructure\\SaludIPSAssistant.Infrastructure.csproj|d:\\sdotnetapps\\saludipsassistant\\src\\saludipsassistant.infrastructure\\repositories\\appointmentreminderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AD0F7BD-1384-418C-85BB-242AB2EB7FA2}|src\\SaludIPSAssistant.Infrastructure\\SaludIPSAssistant.Infrastructure.csproj|solutionrelative:src\\saludipsassistant.infrastructure\\repositories\\appointmentreminderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD0F7BD-1384-418C-85BB-242AB2EB7FA2}|src\\SaludIPSAssistant.Infrastructure\\SaludIPSAssistant.Infrastructure.csproj|d:\\sdotnetapps\\saludipsassistant\\src\\saludipsassistant.infrastructure\\repositories\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AD0F7BD-1384-418C-85BB-242AB2EB7FA2}|src\\SaludIPSAssistant.Infrastructure\\SaludIPSAssistant.Infrastructure.csproj|solutionrelative:src\\saludipsassistant.infrastructure\\repositories\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD0F7BD-1384-418C-85BB-242AB2EB7FA2}|src\\SaludIPSAssistant.Infrastructure\\SaludIPSAssistant.Infrastructure.csproj|d:\\sdotnetapps\\saludipsassistant\\src\\saludipsassistant.infrastructure\\repositories\\conversationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AD0F7BD-1384-418C-85BB-242AB2EB7FA2}|src\\SaludIPSAssistant.Infrastructure\\SaludIPSAssistant.Infrastructure.csproj|solutionrelative:src\\saludipsassistant.infrastructure\\repositories\\conversationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD0F7BD-1384-418C-85BB-242AB2EB7FA2}|src\\SaludIPSAssistant.Infrastructure\\SaludIPSAssistant.Infrastructure.csproj|d:\\sdotnetapps\\saludipsassistant\\src\\saludipsassistant.infrastructure\\repositories\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AD0F7BD-1384-418C-85BB-242AB2EB7FA2}|src\\SaludIPSAssistant.Infrastructure\\SaludIPSAssistant.Infrastructure.csproj|solutionrelative:src\\saludipsassistant.infrastructure\\repositories\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD0F7BD-1384-418C-85BB-242AB2EB7FA2}|src\\SaludIPSAssistant.Infrastructure\\SaludIPSAssistant.Infrastructure.csproj|d:\\sdotnetapps\\saludipsassistant\\src\\saludipsassistant.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AD0F7BD-1384-418C-85BB-242AB2EB7FA2}|src\\SaludIPSAssistant.Infrastructure\\SaludIPSAssistant.Infrastructure.csproj|solutionrelative:src\\saludipsassistant.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E652C07-4D42-4FA0-821D-281D3EC8BDFB}|src\\SaludIPSAssistant.Domain\\SaludIPSAssistant.Domain.csproj|d:\\sdotnetapps\\saludipsassistant\\src\\saludipsassistant.domain\\valueobjects\\valueobjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E652C07-4D42-4FA0-821D-281D3EC8BDFB}|src\\SaludIPSAssistant.Domain\\SaludIPSAssistant.Domain.csproj|solutionrelative:src\\saludipsassistant.domain\\valueobjects\\valueobjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E652C07-4D42-4FA0-821D-281D3EC8BDFB}|src\\SaludIPSAssistant.Domain\\SaludIPSAssistant.Domain.csproj|d:\\sdotnetapps\\saludipsassistant\\src\\saludipsassistant.domain\\enums\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E652C07-4D42-4FA0-821D-281D3EC8BDFB}|src\\SaludIPSAssistant.Domain\\SaludIPSAssistant.Domain.csproj|solutionrelative:src\\saludipsassistant.domain\\enums\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E652C07-4D42-4FA0-821D-281D3EC8BDFB}|src\\SaludIPSAssistant.Domain\\SaludIPSAssistant.Domain.csproj|d:\\sdotnetapps\\saludipsassistant\\src\\saludipsassistant.domain\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E652C07-4D42-4FA0-821D-281D3EC8BDFB}|src\\SaludIPSAssistant.Domain\\SaludIPSAssistant.Domain.csproj|solutionrelative:src\\saludipsassistant.domain\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ED229A7-8237-461A-8A4B-53EDB5AC8710}|tests\\SaludIPSAssistant.IntegrationTests\\SaludIPSAssistant.IntegrationTests.csproj|d:\\sdotnetapps\\saludipsassistant\\tests\\saludipsassistant.integrationtests\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ED229A7-8237-461A-8A4B-53EDB5AC8710}|tests\\SaludIPSAssistant.IntegrationTests\\SaludIPSAssistant.IntegrationTests.csproj|solutionrelative:tests\\saludipsassistant.integrationtests\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A319D53-D8ED-427B-8CC8-6D499F60CE5C}|tests\\SaludIPSAssistant.UnitTests\\SaludIPSAssistant.UnitTests.csproj|d:\\sdotnetapps\\saludipsassistant\\tests\\saludipsassistant.unittests\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A319D53-D8ED-427B-8CC8-6D499F60CE5C}|tests\\SaludIPSAssistant.UnitTests\\SaludIPSAssistant.UnitTests.csproj|solutionrelative:tests\\saludipsassistant.unittests\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A319D53-D8ED-427B-8CC8-6D499F60CE5C}|tests\\SaludIPSAssistant.UnitTests\\SaludIPSAssistant.UnitTests.csproj|d:\\sdotnetapps\\saludipsassistant\\tests\\saludipsassistant.unittests\\domain\\entitytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A319D53-D8ED-427B-8CC8-6D499F60CE5C}|tests\\SaludIPSAssistant.UnitTests\\SaludIPSAssistant.UnitTests.csproj|solutionrelative:tests\\saludipsassistant.unittests\\domain\\entitytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD0F7BD-1384-418C-85BB-242AB2EB7FA2}|src\\SaludIPSAssistant.Infrastructure\\SaludIPSAssistant.Infrastructure.csproj|d:\\sdotnetapps\\saludipsassistant\\src\\saludipsassistant.infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AD0F7BD-1384-418C-85BB-242AB2EB7FA2}|src\\SaludIPSAssistant.Infrastructure\\SaludIPSAssistant.Infrastructure.csproj|solutionrelative:src\\saludipsassistant.infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +114,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 124,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 24,
           "Children": [
             {
               "$type": "Bookmark",
@@ -96,8 +201,346 @@
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProcessIncomingMessageHandler.cs",
+              "DocumentMoniker": "D:\\SDotNetApps\\SaludIPSAssistant\\src\\SaludIPSAssistant.Application\\UseCases\\Conversations\\ProcessIncomingMessageHandler.cs",
+              "RelativeDocumentMoniker": "src\\SaludIPSAssistant.Application\\UseCases\\Conversations\\ProcessIncomingMessageHandler.cs",
+              "ToolTip": "D:\\SDotNetApps\\SaludIPSAssistant\\src\\SaludIPSAssistant.Application\\UseCases\\Conversations\\ProcessIncomingMessageHandler.cs",
+              "RelativeToolTip": "src\\SaludIPSAssistant.Application\\UseCases\\Conversations\\ProcessIncomingMessageHandler.cs",
+              "ViewState": "AgIAACUBAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T02:48:54.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Repositories.cs",
+              "DocumentMoniker": "D:\\SDotNetApps\\SaludIPSAssistant\\src\\SaludIPSAssistant.Application\\Interfaces\\Repositories.cs",
+              "RelativeDocumentMoniker": "src\\SaludIPSAssistant.Application\\Interfaces\\Repositories.cs",
+              "ToolTip": "D:\\SDotNetApps\\SaludIPSAssistant\\src\\SaludIPSAssistant.Application\\Interfaces\\Repositories.cs",
+              "RelativeToolTip": "src\\SaludIPSAssistant.Application\\Interfaces\\Repositories.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T02:48:26.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExternalServices.cs",
+              "DocumentMoniker": "D:\\SDotNetApps\\SaludIPSAssistant\\src\\SaludIPSAssistant.Application\\Interfaces\\ExternalServices.cs",
+              "RelativeDocumentMoniker": "src\\SaludIPSAssistant.Application\\Interfaces\\ExternalServices.cs",
+              "ToolTip": "D:\\SDotNetApps\\SaludIPSAssistant\\src\\SaludIPSAssistant.Application\\Interfaces\\ExternalServices.cs",
+              "RelativeToolTip": "src\\SaludIPSAssistant.Application\\Interfaces\\ExternalServices.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T02:48:19.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\SDotNetApps\\SaludIPSAssistant\\src\\SaludIPSAssistant.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\SaludIPSAssistant.WebApi\\appsettings.json",
+              "ToolTip": "D:\\SDotNetApps\\SaludIPSAssistant\\src\\SaludIPSAssistant.WebApi\\appsettings.json",
+              "RelativeToolTip": "src\\SaludIPSAssistant.WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-16T02:34:48.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WhatsAppNotificationService.cs",
+              "DocumentMoniker": "D:\\SDotNetApps\\SaludIPSAssistant\\src\\SaludIPSAssistant.Infrastructure\\Services\\WhatsAppNotificationService.cs",
+              "RelativeDocumentMoniker": "src\\SaludIPSAssistant.Infrastructure\\Services\\WhatsAppNotificationService.cs",
+              "ToolTip": "D:\\SDotNetApps\\SaludIPSAssistant\\src\\SaludIPSAssistant.Infrastructure\\Services\\WhatsAppNotificationService.cs",
+              "RelativeToolTip": "src\\SaludIPSAssistant.Infrastructure\\Services\\WhatsAppNotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T02:36:38.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebhookController.cs",
+              "DocumentMoniker": "D:\\SDotNetApps\\SaludIPSAssistant\\src\\SaludIPSAssistant.WebApi\\Controllers\\WebhookController.cs",
+              "RelativeDocumentMoniker": "src\\SaludIPSAssistant.WebApi\\Controllers\\WebhookController.cs",
+              "ToolTip": "D:\\SDotNetApps\\SaludIPSAssistant\\src\\SaludIPSAssistant.WebApi\\Controllers\\WebhookController.cs",
+              "RelativeToolTip": "src\\SaludIPSAssistant.WebApi\\Controllers\\WebhookController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwEMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T02:36:46.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SaludIPSAssistant.WebApi.http",
+              "DocumentMoniker": "D:\\SDotNetApps\\SaludIPSAssistant\\src\\SaludIPSAssistant.WebApi\\SaludIPSAssistant.WebApi.http",
+              "RelativeDocumentMoniker": "src\\SaludIPSAssistant.WebApi\\SaludIPSAssistant.WebApi.http",
+              "ToolTip": "D:\\SDotNetApps\\SaludIPSAssistant\\src\\SaludIPSAssistant.WebApi\\SaludIPSAssistant.WebApi.http",
+              "RelativeToolTip": "src\\SaludIPSAssistant.WebApi\\SaludIPSAssistant.WebApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-08-16T02:47:41.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SDotNetApps\\SaludIPSAssistant\\src\\SaludIPSAssistant.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "src\\SaludIPSAssistant.WebApi\\Program.cs",
+              "ToolTip": "D:\\SDotNetApps\\SaludIPSAssistant\\src\\SaludIPSAssistant.WebApi\\Program.cs",
+              "RelativeToolTip": "src\\SaludIPSAssistant.WebApi\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T02:46:57.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\SDotNetApps\\SaludIPSAssistant\\src\\SaludIPSAssistant.WebApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "src\\SaludIPSAssistant.WebApi\\appsettings.Development.json",
+              "ToolTip": "D:\\SDotNetApps\\SaludIPSAssistant\\src\\SaludIPSAssistant.WebApi\\appsettings.Development.json",
+              "RelativeToolTip": "src\\SaludIPSAssistant.WebApi\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-16T02:34:46.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppointmentQueries.cs",
+              "DocumentMoniker": "D:\\SDotNetApps\\SaludIPSAssistant\\src\\SaludIPSAssistant.Application\\Queries\\AppointmentQueries.cs",
+              "RelativeDocumentMoniker": "src\\SaludIPSAssistant.Application\\Queries\\AppointmentQueries.cs",
+              "ToolTip": "D:\\SDotNetApps\\SaludIPSAssistant\\src\\SaludIPSAssistant.Application\\Queries\\AppointmentQueries.cs",
+              "RelativeToolTip": "src\\SaludIPSAssistant.Application\\Queries\\AppointmentQueries.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T02:38:19.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppointmentCommands.cs",
+              "DocumentMoniker": "D:\\SDotNetApps\\SaludIPSAssistant\\src\\SaludIPSAssistant.Application\\Commands\\AppointmentCommands.cs",
+              "RelativeDocumentMoniker": "src\\SaludIPSAssistant.Application\\Commands\\AppointmentCommands.cs",
+              "ToolTip": "D:\\SDotNetApps\\SaludIPSAssistant\\src\\SaludIPSAssistant.Application\\Commands\\AppointmentCommands.cs",
+              "RelativeToolTip": "src\\SaludIPSAssistant.Application\\Commands\\AppointmentCommands.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T02:38:01.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WhatsAppDtos.cs",
+              "DocumentMoniker": "D:\\SDotNetApps\\SaludIPSAssistant\\src\\SaludIPSAssistant.Application\\DTOs\\WhatsAppDtos.cs",
+              "RelativeDocumentMoniker": "src\\SaludIPSAssistant.Application\\DTOs\\WhatsAppDtos.cs",
+              "ToolTip": "D:\\SDotNetApps\\SaludIPSAssistant\\src\\SaludIPSAssistant.Application\\DTOs\\WhatsAppDtos.cs",
+              "RelativeToolTip": "src\\SaludIPSAssistant.Application\\DTOs\\WhatsAppDtos.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T02:38:09.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SimpleNlpService.cs",
+              "DocumentMoniker": "D:\\SDotNetApps\\SaludIPSAssistant\\src\\SaludIPSAssistant.Infrastructure\\Services\\SimpleNlpService.cs",
+              "RelativeDocumentMoniker": "src\\SaludIPSAssistant.Infrastructure\\Services\\SimpleNlpService.cs",
+              "ToolTip": "D:\\SDotNetApps\\SaludIPSAssistant\\src\\SaludIPSAssistant.Infrastructure\\Services\\SimpleNlpService.cs",
+              "RelativeToolTip": "src\\SaludIPSAssistant.Infrastructure\\Services\\SimpleNlpService.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T02:35:59.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MockAgendaProvider.cs",
+              "DocumentMoniker": "D:\\SDotNetApps\\SaludIPSAssistant\\src\\SaludIPSAssistant.Infrastructure\\Services\\MockAgendaProvider.cs",
+              "RelativeDocumentMoniker": "src\\SaludIPSAssistant.Infrastructure\\Services\\MockAgendaProvider.cs",
+              "ToolTip": "D:\\SDotNetApps\\SaludIPSAssistant\\src\\SaludIPSAssistant.Infrastructure\\Services\\MockAgendaProvider.cs",
+              "RelativeToolTip": "src\\SaludIPSAssistant.Infrastructure\\Services\\MockAgendaProvider.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T02:35:57.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppointmentReminderRepository.cs",
+              "DocumentMoniker": "D:\\SDotNetApps\\SaludIPSAssistant\\src\\SaludIPSAssistant.Infrastructure\\Repositories\\AppointmentReminderRepository.cs",
+              "RelativeDocumentMoniker": "src\\SaludIPSAssistant.Infrastructure\\Repositories\\AppointmentReminderRepository.cs",
+              "ToolTip": "D:\\SDotNetApps\\SaludIPSAssistant\\src\\SaludIPSAssistant.Infrastructure\\Repositories\\AppointmentReminderRepository.cs",
+              "RelativeToolTip": "src\\SaludIPSAssistant.Infrastructure\\Repositories\\AppointmentReminderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T02:44:12.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppointmentRepository.cs",
+              "DocumentMoniker": "D:\\SDotNetApps\\SaludIPSAssistant\\src\\SaludIPSAssistant.Infrastructure\\Repositories\\AppointmentRepository.cs",
+              "RelativeDocumentMoniker": "src\\SaludIPSAssistant.Infrastructure\\Repositories\\AppointmentRepository.cs",
+              "ToolTip": "D:\\SDotNetApps\\SaludIPSAssistant\\src\\SaludIPSAssistant.Infrastructure\\Repositories\\AppointmentRepository.cs",
+              "RelativeToolTip": "src\\SaludIPSAssistant.Infrastructure\\Repositories\\AppointmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T02:44:08.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ConversationRepository.cs",
+              "DocumentMoniker": "D:\\SDotNetApps\\SaludIPSAssistant\\src\\SaludIPSAssistant.Infrastructure\\Repositories\\ConversationRepository.cs",
+              "RelativeDocumentMoniker": "src\\SaludIPSAssistant.Infrastructure\\Repositories\\ConversationRepository.cs",
+              "ToolTip": "D:\\SDotNetApps\\SaludIPSAssistant\\src\\SaludIPSAssistant.Infrastructure\\Repositories\\ConversationRepository.cs",
+              "RelativeToolTip": "src\\SaludIPSAssistant.Infrastructure\\Repositories\\ConversationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T02:44:04.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PatientRepository.cs",
+              "DocumentMoniker": "D:\\SDotNetApps\\SaludIPSAssistant\\src\\SaludIPSAssistant.Infrastructure\\Repositories\\PatientRepository.cs",
+              "RelativeDocumentMoniker": "src\\SaludIPSAssistant.Infrastructure\\Repositories\\PatientRepository.cs",
+              "ToolTip": "D:\\SDotNetApps\\SaludIPSAssistant\\src\\SaludIPSAssistant.Infrastructure\\Repositories\\PatientRepository.cs",
+              "RelativeToolTip": "src\\SaludIPSAssistant.Infrastructure\\Repositories\\PatientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T02:43:48.917Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "D:\\SDotNetApps\\SaludIPSAssistant\\src\\SaludIPSAssistant.Domain\\Enums\\Enums.cs",
+              "RelativeDocumentMoniker": "src\\SaludIPSAssistant.Domain\\Enums\\Enums.cs",
+              "ToolTip": "D:\\SDotNetApps\\SaludIPSAssistant\\src\\SaludIPSAssistant.Domain\\Enums\\Enums.cs",
+              "RelativeToolTip": "src\\SaludIPSAssistant.Domain\\Enums\\Enums.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T02:38:38.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ValueObjects.cs",
+              "DocumentMoniker": "D:\\SDotNetApps\\SaludIPSAssistant\\src\\SaludIPSAssistant.Domain\\ValueObjects\\ValueObjects.cs",
+              "RelativeDocumentMoniker": "src\\SaludIPSAssistant.Domain\\ValueObjects\\ValueObjects.cs",
+              "ToolTip": "D:\\SDotNetApps\\SaludIPSAssistant\\src\\SaludIPSAssistant.Domain\\ValueObjects\\ValueObjects.cs",
+              "RelativeToolTip": "src\\SaludIPSAssistant.Domain\\ValueObjects\\ValueObjects.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T02:38:43.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\SDotNetApps\\SaludIPSAssistant\\src\\SaludIPSAssistant.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "src\\SaludIPSAssistant.Infrastructure\\Repositories\\Repository.cs",
+              "ToolTip": "D:\\SDotNetApps\\SaludIPSAssistant\\src\\SaludIPSAssistant.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeToolTip": "src\\SaludIPSAssistant.Infrastructure\\Repositories\\Repository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T02:38:58.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "D:\\SDotNetApps\\SaludIPSAssistant\\src\\SaludIPSAssistant.Domain\\Entities\\Appointment.cs",
+              "RelativeDocumentMoniker": "src\\SaludIPSAssistant.Domain\\Entities\\Appointment.cs",
+              "ToolTip": "D:\\SDotNetApps\\SaludIPSAssistant\\src\\SaludIPSAssistant.Domain\\Entities\\Appointment.cs",
+              "RelativeToolTip": "src\\SaludIPSAssistant.Domain\\Entities\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T02:37:50.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "D:\\SDotNetApps\\SaludIPSAssistant\\tests\\SaludIPSAssistant.IntegrationTests\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "tests\\SaludIPSAssistant.IntegrationTests\\GlobalUsings.cs",
+              "ToolTip": "D:\\SDotNetApps\\SaludIPSAssistant\\tests\\SaludIPSAssistant.IntegrationTests\\GlobalUsings.cs",
+              "RelativeToolTip": "tests\\SaludIPSAssistant.IntegrationTests\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T02:37:41.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "D:\\SDotNetApps\\SaludIPSAssistant\\tests\\SaludIPSAssistant.UnitTests\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "tests\\SaludIPSAssistant.UnitTests\\GlobalUsings.cs",
+              "ToolTip": "D:\\SDotNetApps\\SaludIPSAssistant\\tests\\SaludIPSAssistant.UnitTests\\GlobalUsings.cs",
+              "RelativeToolTip": "tests\\SaludIPSAssistant.UnitTests\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T02:37:39.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EntityTests.cs",
+              "DocumentMoniker": "D:\\SDotNetApps\\SaludIPSAssistant\\tests\\SaludIPSAssistant.UnitTests\\Domain\\EntityTests.cs",
+              "RelativeDocumentMoniker": "tests\\SaludIPSAssistant.UnitTests\\Domain\\EntityTests.cs",
+              "ToolTip": "D:\\SDotNetApps\\SaludIPSAssistant\\tests\\SaludIPSAssistant.UnitTests\\Domain\\EntityTests.cs",
+              "RelativeToolTip": "tests\\SaludIPSAssistant.UnitTests\\Domain\\EntityTests.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T02:36:59.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\SDotNetApps\\SaludIPSAssistant\\src\\SaludIPSAssistant.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "src\\SaludIPSAssistant.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\SDotNetApps\\SaludIPSAssistant\\src\\SaludIPSAssistant.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeToolTip": "src\\SaludIPSAssistant.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T02:35:40.936Z",
+              "EditorCaption": ""
             }
           ]
         },

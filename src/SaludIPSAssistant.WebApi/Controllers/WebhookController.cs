@@ -1,5 +1,5 @@
-using Microsoft.AspNetCore.Mvc;
 using MediatR;
+using Microsoft.AspNetCore.Mvc;
 using SaludIPSAssistant.Application.Commands;
 using SaludIPSAssistant.Application.DTOs;
 
@@ -61,14 +61,14 @@ public class WebhookController : ControllerBase
     [HttpGet("whatsapp")]
     public IActionResult VerifyWebhook([FromQuery] string hub_mode, [FromQuery] string hub_challenge, [FromQuery] string hub_verify_token)
     {
-        const string expectedToken = "your_verify_token_here"; // Should come from configuration
-        
+        const string expectedToken = "Santiago2912"; // Should come from configuration
+
         if (hub_mode == "subscribe" && hub_verify_token == expectedToken)
         {
             _logger.LogInformation("WhatsApp webhook verified successfully");
             return Ok(hub_challenge);
         }
-        
+
         _logger.LogWarning("WhatsApp webhook verification failed");
         return Forbid();
     }
