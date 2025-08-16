@@ -130,7 +130,7 @@ public class ProcessIncomingMessageHandler : IRequestHandler<ProcessIncomingMess
             IsProcessed = false
         };
 
-        // Add message logic here
+        await _unitOfWork.Messages.AddAsync(message, cancellationToken);
         await _unitOfWork.SaveChangesAsync(cancellationToken);
     }
 
@@ -146,7 +146,7 @@ public class ProcessIncomingMessageHandler : IRequestHandler<ProcessIncomingMess
             IsProcessed = true
         };
 
-        // Add message logic here
+        await _unitOfWork.Messages.AddAsync(message, cancellationToken);
         await _unitOfWork.SaveChangesAsync(cancellationToken);
     }
 

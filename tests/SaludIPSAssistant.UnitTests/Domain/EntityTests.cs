@@ -96,3 +96,53 @@ public class ConversationTests
         Assert.NotNull(conversation.Messages);
     }
 }
+
+public class MessageTests
+{
+    [Fact]
+    public void Message_Creation_Should_Set_Properties_Correctly()
+    {
+        // Arrange
+        var messageId = Guid.NewGuid();
+        var conversationId = Guid.NewGuid();
+        var content = "Test message content";
+        var timestamp = DateTime.UtcNow;
+
+        // Act
+        var message = new Message
+        {
+            Id = messageId,
+            ConversationId = conversationId,
+            Content = content,
+            Direction = MessageDirection.Inbound,
+            Timestamp = timestamp,
+            MessageId = "ext_msg_123",
+            IsProcessed = false
+        };
+
+        // Assert
+        Assert.Equal(messageId, message.Id);
+        Assert.Equal(conversationId, message.ConversationId);
+        Assert.Equal(content, message.Content);
+        Assert.Equal(MessageDirection.Inbound, message.Direction);
+        Assert.Equal(timestamp, message.Timestamp);
+        Assert.Equal("ext_msg_123", message.MessageId);
+        Assert.False(message.IsProcessed);
+    }
+
+    [Fact]
+    public void Message_Should_Allow_Direction_Update()
+    {
+        // Arrange
+        var message = new Message
+        {
+            Direction = MessageDirection.Inbound
+        };
+
+        // Act
+        message.Direction = MessageDirection.Outbound;
+
+        // Assert
+        Assert.Equal(MessageDirection.Outbound, message.Direction);
+    }
+}

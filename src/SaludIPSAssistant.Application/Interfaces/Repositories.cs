@@ -27,6 +27,11 @@ public interface IConversationRepository : IRepository<Conversation>
     Task<IEnumerable<Conversation>> GetConversationHistoryAsync(Guid patientId, int take = 10, CancellationToken cancellationToken = default);
 }
 
+public interface IMessageRepository : IRepository<Message>
+{
+    Task<IEnumerable<Message>> GetByConversationIdAsync(Guid conversationId, CancellationToken cancellationToken = default);
+}
+
 public interface IAppointmentRepository : IRepository<Appointment>
 {
     Task<IEnumerable<Appointment>> GetByPatientIdAsync(Guid patientId, CancellationToken cancellationToken = default);
@@ -48,6 +53,7 @@ public interface IUnitOfWork : IDisposable
     IConversationRepository Conversations { get; }
     IAppointmentRepository Appointments { get; }
     IAppointmentReminderRepository Reminders { get; }
+    IMessageRepository Messages { get; }
     
     Task<int> SaveChangesAsync(CancellationToken cancellationToken = default);
     Task BeginTransactionAsync(CancellationToken cancellationToken = default);
