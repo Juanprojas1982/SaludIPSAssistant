@@ -17,12 +17,14 @@ public class UnitOfWork : IUnitOfWork
         Conversations = new ConversationRepository(_context);
         Appointments = new AppointmentRepository(_context);
         Reminders = new AppointmentReminderRepository(_context);
+        Messages = new MessageRepository(_context);
     }
 
     public IPatientRepository Patients { get; }
     public IConversationRepository Conversations { get; }
     public IAppointmentRepository Appointments { get; }
     public IAppointmentReminderRepository Reminders { get; }
+    public IMessageRepository Messages { get; }
 
     public async Task<int> SaveChangesAsync(CancellationToken cancellationToken = default)
     {
